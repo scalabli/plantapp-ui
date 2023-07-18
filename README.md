@@ -1,6 +1,5 @@
-# Plant App - Flutter UI
+# Plant App - Mobile app UI
 
-## [Watch it on YouTube](https://youtu.be/LN668OAUrK4)
 
 **Packages we are using:**
 
